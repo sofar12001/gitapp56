@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/dropmedia/devagile/_apis/build/status%2Fsofar12001.gitapp56?branchName=master)](https://dev.azure.com/dropmedia/devagile/_build/latest?definitionId=40&branchName=master)
